@@ -1,5 +1,5 @@
 # yantra
-digital yantra import brahmi sanskrit 
+digital yantra import brahmi sanskrit mantra
 include shapes
 # shree yantra
 || om shreem hreem shreem kamale
