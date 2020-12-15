@@ -1,8 +1,8 @@
-# yantra
-digital yantra import brahmi sanskrit mantra
-include shapes
-# shree yantra
-|| om shreem hreem shreem kamale
-kamalaleyi praseed praseed
-om shreem hreem shreem mahalekshmiyei
-namaha ||
+# यन्त्र
+अङ्कीय यन्त्र आयापयति ब्रह्मी संस्कृति मन्त्र
+विचति स्थिति
+# विचति यन्त्र
+|| ऊँ श्रीं ह्रीं श्रीं कमले
+कमललेयि प्रसीत प्रसीत
+ऊँ श्रीं ह्रीं श्रीं महालक्ष्मीये
+नमह ||
